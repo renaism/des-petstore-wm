@@ -747,7 +747,7 @@
 </MAPCOPY>
 </MAP>
 
-<BRANCH TIMEOUT="" SWITCH="/header/lines/Content-Type">
+<BRANCH TIMEOUT="" SWITCH="/header/lines/content-type">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
